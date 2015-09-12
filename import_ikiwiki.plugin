@@ -1,0 +1,12 @@
+[Core]
+name = import_ikiwiki
+module = import_ikiwiki
+
+[Documentation]
+author = Alexander Wauck
+version = 0.1
+website = http://impulse101.org
+description = Import an ikiwiki blog from markdown post source (requires markdown, obviously).
+
+[Nikola]
+plugincategory = Command
